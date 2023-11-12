@@ -32,17 +32,24 @@ Exciting news! The Power BI dashboard is now fully operational for AtliQ Hardwar
 
 ## Key Learning Points
 
+Learnt Tech Stack
+-SQL
+-Power BI Desktop
+-Excel
+-DAX functions
+-Project charter file
+
 Throughout this project, we gained valuable insights and knowledge in several key areas, including:
 
 - Understanding Business Terminologies
 - Utilizing Power BI for data visualization
-- Data Exploration using SQL, Fact & Dim Tables
+- Data Exploration using SQL, Fact and dim Tables
 - Importing Data from MySQL Databases/CSV Files/Excel Workbooks
 - Data Transformation and Calculated Columns with Power Query and M Language
 - Crafting Effective Data Models with Star and Snowflake Schemas
 - Leveraging Calculated Columns and DAX Measures
 - Creating Dynamic Visuals with DAX Measures and Tooltips
-- Implementing KPI & Dynamic Benchmark Cards, Slicers, and Toggle Switches using Bookmarks
+- Implementing KPI and dynamic Benchmark Cards, Slicers, and Toggle Switches using Bookmarks
 - Designing an Effective Dashboard with 15 Design Rules
 - Fine-tuning Report Performance and Addressing Data Quality
 - Building User-Friendly Home Page and Navigation Buttons
@@ -58,7 +65,7 @@ Throughout this project, we gained valuable insights and knowledge in several ke
 The dashboard aggregates data from two primary sources:
 
 1. Excel/CSV Files: Targets and Market Share data and related information are sourced from Excel and CSV files.
-2. MySQL Database: Facts and Dimension for all departments are retrieved from a MySQL database.
+2. MySQL Database: Facts and Dimensions for all departments are retrieved from a MySQL database.
 
 ## Performance Optimization
 
