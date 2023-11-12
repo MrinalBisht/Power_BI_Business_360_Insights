@@ -43,7 +43,7 @@ Throughout this project, we gained valuable insights and knowledge in several ke
 
 - Understanding Business Terminologies
 - Utilizing Power BI for data visualization
-- Data Exploration using SQL, Fact and dim Tables
+- Data Exploration using SQL, Fact, and dim Tables
 - Importing Data from MySQL Databases/CSV Files/Excel Workbooks
 - Data Transformation and Calculated Columns with Power Query and M Language
 - Crafting Effective Data Models with Star and Snowflake Schemas
@@ -69,5 +69,13 @@ The dashboard aggregates data from two primary sources:
 
 ## Performance Optimization
 
-We optimized the dashboard's performance using DAX Studio, resulting in a 5% increase in report efficiency. This optimization ensures a seamless experience when exploring data and visualizations.
+We optimized the dashboard's performance using DAX Studio, resulting 30 % decrease in file size and faster loading of data. This optimization ensures a seamless experience when exploring data and visualizations.
+
+## Live Dashboard
+
+- 1 Explore the live dashboards https://bit.ly/LiveBusinessInsights360DashboardLink
+
+- 2 Open the link above to access the interactive dashboards.
+
+- 3 Use the toggle buttons and bookmarks for seamless navigation between views.
 
