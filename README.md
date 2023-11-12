@@ -1,7 +1,5 @@
 # Power_BI_Business_360_Insights
 
-# Business Insights 360 Project
-
 ## Project Overview
 
 The **Business Insights 360 Project** is a comprehensive data visualization initiative created using Power BI. It is designed to provide stakeholders with real-time insights customized to their specific needs. The project comprises five primary views: Finance, Sales, Marketing, Supply Chain, and Executive, each of which emphasizes key metrics and KPIs to facilitate data-driven decision-making.
