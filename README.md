@@ -33,11 +33,11 @@ Exciting news! The Power BI dashboard is now fully operational for AtliQ Hardwar
 ## Key Learning Points
 
 **Learn Tech Stack**
--SQL
--Power BI Desktop
--Excel
--DAX functions
--Project charter file
+- SQL
+- Power BI Desktop
+- Excel
+- DAX functions
+- Project charter file
 
 Throughout this project, we gained valuable insights and knowledge in several key areas, including:
 
