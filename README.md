@@ -32,7 +32,7 @@ Exciting news! The Power BI dashboard is now fully operational for AtliQ Hardwar
 
 ## Key Learning Points
 
-Learnt Tech Stack
+**Learn Tech Stack**
 -SQL
 -Power BI Desktop
 -Excel
